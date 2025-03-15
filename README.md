@@ -184,6 +184,3 @@ Your mind is your greatest tool—don’t let the grind dull it. The pressures o
 
 Let’s forge a tech world where mental health fuels innovation, not burnout. You’ve got this—protect your mind, and keep building the future.
 
----
-
-This expanded version digs deeper into challenges like ethical dilemmas and perfectionism, adds strategies like unplugging and reframing failure, and includes more tools, examples, and employer tips. It’s a standalone, robust resource for your GitHub page or beyond, blending data, stories, and action to support tech pros like you.
